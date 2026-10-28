@@ -1,2 +1,3 @@
 application initialize
  adding navbar spacing 
+add search option 
